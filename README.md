@@ -41,57 +41,34 @@ Examples:
 **4. Neural Networks (Deep Learning) :**       
 Models inspired by the human brain.    
 Examples:    
+- Multilayer Perceptron (MLP)        
+- Convolutional Neural Networks (CNN)                                      
+- Recurrent Neural Networks (RNN)                             
+- Transformers                                   
+- Used for images, text, audio, etc.                      
 
-Multilayer Perceptron (MLP)
-
-Convolutional Neural Networks (CNN)
-
-Recurrent Neural Networks (RNN)
-
-Transformers
-
-Used for images, text, audio, etc.
-
-5. Probabilistic Models
-
-Based on statistics and probability.
-
+**5. Probabilistic Models**         
+Based on statistics and probability. 
 Examples:
+- Naive Bayes               
+- Gaussian Mixture Models                           
+- Hidden Markov Models (HMM)                             
 
-Naive Bayes
+**6. Support Vector Machines (SVM)**                                 
+Can be:                                  
+- Linear SVM (as mentioned before)                         
+- Non-linear SVM (using kernels like RBF)                            
 
-Gaussian Mixture Models
+**7. Clustering Models (Unsupervised)**                                   
+Used when data isn’t labeled.                          
+Examples:                      
+- K-Means                                       
+- DBSCAN                                   
+- Hierarchical clustering                            
 
-Hidden Markov Models (HMM)
-
-6. Support Vector Machines (SVM)
-
-Can be:
-
-Linear SVM
-
-Non-linear SVM (using kernels like RBF)
-
-7. Clustering Models (Unsupervised)
-
-Used when data isn’t labeled.
-
-Examples:
-
-K-Means
-
-DBSCAN
-
-Hierarchical clustering
-
-8. Dimensionality Reduction Models
-
-Used to reduce number of features.
-
-Examples:
-
-PCA
-
-t-SNE
-
-UMAP
+**8. Dimensionality Reduction Models**                         
+Used to reduce number of features.                           
+Examples:                        
+- PCA                        
+- t-SNE                       
+- UMAP             
